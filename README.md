@@ -34,6 +34,10 @@ Execute
 ```
 dotnet new mvc
 ```
+To add .gitignore to project, execute
+```
+dotnet new gitignore
+```
 You can also create a project by Visual Studio
 
 ## 2. Create website design template
