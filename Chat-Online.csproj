@@ -5,4 +5,8 @@
     <RootNamespace>Chat_Online</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Views\Loggin\" />
+  </ItemGroup>
+
 </Project>
