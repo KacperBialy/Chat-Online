@@ -4,7 +4,7 @@
 # TODO 🥊
 1. [:heavy_check_mark:] Create ASP.NET CORE MVC PROJECT
 2. [:x:] Create website design template
-     - [:x:] Create register form
+     - [:heavy_check_mark:] Create register form
      - [:heavy_check_mark:] Create loggin form
      - [:x:] Create chat design
        - [:x:] Add search bar [top side]
@@ -43,6 +43,8 @@ You can also create a project by Visual Studio
 ## 2. Create website design template
 
 ### 2.1 Create register form
+<img src="https://user-images.githubusercontent.com/44371092/133685651-f75eb5c7-145b-4ad1-90d7-520dc36f0c1b.png"/>
+
 ### 2.2 Create loggin form
 <img src="https://user-images.githubusercontent.com/44371092/133682048-ccf89803-3d0f-411e-89dd-2bc912a8b277.png"/>
 
