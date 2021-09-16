@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Loggin page";
+}
+
+    <div class="text-center mt-5">
+        <form id="form"
+              style="max-width: 300px; margin: auto">
+            <img src="Images/Loggin.png" />
+            <h3 class="my-4">Please sign in</h3>
+            <input type="email"
+                   id="emailAdress"
+                   class="form-control mb-1"
+                   placeholder="Email Adress"
+                   required
+                   autofocus />
+            <input type="password"
+                   id="password"
+                   class="form-control"
+                   placeholder="Password"
+                   required />
+            <div class="mt-2 d-grid">
+                <button type="submit" class="btn-block btn-lg btn-primary">
+                    Sign In
+                </button>
+            </div>
+        </form>
+        <div class="mt-2" style="max-width: 300px; margin: auto">
+                <button class="btn-block btn-lg btn-warning">
+                    Sign Up
+                </button>
+        </div>
+    </div>

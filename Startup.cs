@@ -50,7 +50,7 @@ namespace Chat_Online
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Loggin}/{action=Index}");
             });
         }
     }
