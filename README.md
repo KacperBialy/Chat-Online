@@ -7,7 +7,7 @@
      - [:heavy_check_mark:] Create register form
      - [:heavy_check_mark:] Create loggin form
      - [:x:] Create chat design
-       - [:x:] Add search bar [top side]
+       - [:heavy_check_mark:] Add search bar [top side]
        - [:x:] Add friends list [left side]
        - [:x:] Add place to chat message
 3. [:x:] Create database with Entity Framework (Model First approach)
@@ -48,9 +48,10 @@ You can also create a project by Visual Studio
 ### 2.2 Create loggin form
 <img src="https://user-images.githubusercontent.com/44371092/133682048-ccf89803-3d0f-411e-89dd-2bc912a8b277.png"/>
 
-### 2.3 Create register form
-### 2.4 Create chat design
-#### 2.4.1 Add search bar [top side]
-#### 2.4.2 Add friends list [left side]
-#### 2.4.3 Add place to chat message
+### 2.3 Create chat design
+#### 2.3.1 Add search bar [top side]
+![image](https://user-images.githubusercontent.com/44371092/134072344-ab91dee6-9902-4486-b185-5beba796dcb4.png)
+
+#### 2.3.2 Add friends list [left side]
+#### 2.3.3 Add place to chat message
   
